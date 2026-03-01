@@ -1,16 +1,29 @@
-### Hi there 👋
+# 👋 Olá, eu sou Ana
 
-<!--
-**AnaVFeriatti/AnaVFeriatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+Sou profissional em desenvolvimento, apaixonada por tecnologia, análise de dados e aprendizado contínuo.
 
-Here are some ideas to get you started:
+## 💼 Habilidades
+- 🐍 Python
+- 💻 JavaScript
+- 🎨 HTML & CSS
+- 🗄️ Banco de Dados
+- 📊 Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos
+### Saúde Conectada: uma solução de telemedicina para áreas rurais e de difícil acesso
+Um sistema abrangente de gestão de saúde projetado para otimizar processos médicos, conectar pacientes e profissionais de saúde e melhorar a eficiência dos serviços médicos por meio da tecnologia.
+
+**Recursos:**
+- **📋 Prontuário Eletrônico do Paciente (PEP)** - Prontuário digital do paciente com acesso seguro
+- **🎯 Gerenciamento de Pacientes** - Cadastro completo do paciente e histórico médico
+- **💊 Gerenciamento de Receitas** - Prescrições digitais e rastreamento de medicamentos
+- **📅 Agendamento de Consultas** - Sistema de agendamento online com lembretes
+- **📊 Análise Médica** - Análise de dados para insights sobre saúde
+
+**Tecnologia:** PHP, PostgreSQL, HTML/CSS, JavaScript
+
+
+## 📫 Contato
+- Email: vitoria.feriatti@gmail.com
+- LinkedIn: [Ana Feriatti](https://www.linkedin.com/in/ana-feriatti)
