@@ -2,6 +2,13 @@
 
 const CERTS_DATA = [
   {
+    title: 'Oracle SQL para iniciantes',
+    issuer: 'Undemy',
+    date: '2026',
+    category: 'Certificacao',
+    url: 'https://www.udemy.com/certificate/UC-bf2df625-36bd-4bc9-99ac-68d5ebf61ada/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com',
+  },
+  {
     title: 'Análise e Desenvolvimento de Sistemas',
     issuer: 'FATEC Ourinhos',
     date: '2025',
