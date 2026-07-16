@@ -37,9 +37,9 @@ const CERTS_DATA = [
     url: 'https://www.even3.com.br/documentos/imprimir?i=18674495.88863189.6.8.86744958886318968&cc=534CB369-298E-4ADA-8E17-C6ACAAED8C5E',
   },
   {
-    title: 'Ferramentas para Ciência de Dados',
+    title: 'Semana de Ciência e Tecnologia',
     issuer: 'Even3',
-    date: '2024',
+    date: '2023',
     category: 'Certificacao',
     url: 'pdf/Certificado_CiênciaTecnologia2023.pdf',
   },
