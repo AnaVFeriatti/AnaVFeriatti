@@ -56,5 +56,5 @@ const CERTS_DATA = [
     date: '2022',
     category: 'formacao',
     url: '',
-  },
+  }
 ];
