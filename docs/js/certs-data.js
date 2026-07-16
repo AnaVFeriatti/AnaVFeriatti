@@ -38,7 +38,7 @@ const CERTS_DATA = [
   },
   {
     title: 'Semana de Ciência e Tecnologia',
-    issuer: 'Even3',
+    issuer: 'FATEC',
     date: '2023',
     category: 'Certificacao',
     url: 'pdf/Certificado_CiênciaTecnologia2023.pdf',
