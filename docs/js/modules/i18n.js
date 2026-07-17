@@ -5,6 +5,11 @@ let currentLang = 'pt';
 function initI18n() {
   const saved = localStorage.getItem('lang') || 'pt';
   applyLang(saved);
+
+  const langBtn = document.getElementById('langBtn');
+  if(langBtn && !langBtn.onclick){
+    langBtn.onclick = toggleLang;
+  }
 }
 
 function toggleLang() {
@@ -30,3 +35,5 @@ function applyLang(lang) {
 function t(key) {
   return TRANSLATIONS[currentLang][key] || key;
 }
+
+window.toggleLang = toggleLang;

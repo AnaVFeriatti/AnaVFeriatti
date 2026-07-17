@@ -3,6 +3,11 @@
 function initTheme() {
   const saved = localStorage.getItem('theme') || 'dark';
   applyTheme(saved);
+
+  const themeBtn = document.getElementById('themeBtn');
+  if(themeBtn && !themeBtn.onclick) {
+    themeBtn.onclick = toggleTheme;
+  }
 }
 
 function toggleTheme() {
@@ -17,3 +22,5 @@ function applyTheme(theme) {
   const btn = document.getElementById('themeBtn');
   if (btn) btn.textContent = theme === 'dark' ? '☀️' : '🌙';
 }
+
+window.toggleTheme = toggleTheme;
